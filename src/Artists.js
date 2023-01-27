@@ -19,7 +19,7 @@ class Artists extends React.Component{
                     <div style={styles.subInfo}>
                         <h4 style={{marginBottom:'0.5rem'}}>IPod.js <span><img style={styles.image} src="https://image.flaticon.com/icons/svg/953/953909.svg" /></span></h4>
                         <p style={{marginBottom:'0'}}> React Project</p>
-                        <p>Made by : Anand</p>
+                        <p>Made by : Thamitha</p>
                     </div>
                     
                 </div>
